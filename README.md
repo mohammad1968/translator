@@ -1,0 +1,2 @@
+# translator
+text translate
